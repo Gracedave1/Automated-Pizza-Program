@@ -1,7 +1,12 @@
-# Grace-file
-> A repo contains my latest python code
-- This repo is talking about a python project i worked on recently
-- The project is basically about an **Automated Pizza Order Programe**
--  ***To build an automated pizza order program. Based on a customer's order, work out their final bill***.
--  markdown cheat sheet [link](https://www.markdownguide.org/basic-syntax/#blockquotes-1) 
--  
+# Welcome to the Automated Pizza Order Program!
+> A repo containing my latest python code
+-  This Python script allows users to place pizza orders through a simple and intuitive command-line interface.*
+-  ***It is an automated pizza order program based on a customer's order, and then, their final bill***.
+
+  ## Features
+- Select from a variety of pizza sizes and toppings
+- Customize your order with multiple options
+- Calculate total cost based on selections
+- Confirm and finalize your order
+- Generate a summary of your order
+
